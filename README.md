@@ -68,40 +68,4 @@ grep -n "Please login with the username admin and the password" /var/log/syslog
 
 Ready to login on **https://YOURDOMAIN:3333**
 
-Now you have the GoPhish Platform ready to use. In this tutorial I use netflix.ironbox.com.ar for test
 
-### Landing Page
-
-Create the Landing Page. You must clone the original login page.
-
-<p align="center">
-<img src="iac/screenshots/landing.png" width="1000" >
-</p>
-
-### Sending Profile 
-
-You must fill the blanks with yout SMTP Server.
-
-<p align="center">
-<img src="iac/screenshots/sending.png" width="1000" >
-</p>
-
-### Email Template
-
-Importe the email template, will be the raw file.
-
-<p align="center">
-<img src="iac/screenshots/email.png" width="1000" >
-</p>
-
-Time to test your users!
-
-<p align="center">
-<img src="iac/screenshots/campain_1.png" width="1000" >
-</p>
-
-<p align="center">
-<img src="iac/screenshots/campain_2.png" width="1000" >
-</p>
-
-This tutorial is for practical purposes. One way to measure our awareness plan.
