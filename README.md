@@ -19,7 +19,7 @@ It will be necessary to have:
 ### Clone the proyect
 
 ````
-git clone https://github.com/safernandez666/Terraform.git
+git clone https://github.com/rinehardramos/phishfud
 ````
 
 ### Configure 
